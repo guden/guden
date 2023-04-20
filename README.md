@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inan Onder Guden</h1>
-<h5 align="center">An avid software engineer and entrepreneur who loves to build startups and ideas. In addition to developing brands and researching new technologies, I also enjoy studying them.
+<h5 align="left">An avid software engineer and entrepreneur who loves to build startups and ideas. In addition to developing brands and researching new technologies, I also enjoy studying them.
 
 As a security, research professional for the past ten years, I have also worked in platform development for large-scale software development projects, as well as digital transformation projects and consulting enterprises in the UK, EMEA, MENA and the US for global opportunities.
 

@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Inan Onder Guden</h1>
-<h3 align="center">An avid software engineer who is passionate about building startups. I enjoy automating things, building pipelines, studying scalability issues and improving efficiency and performance.</h3>
+<h5 align="center">An avid software engineer and entrepreneur who loves to build startups and ideas. In addition to developing brands and researching new technologies, I also enjoy studying them.
+
+As a security, research professional for the past ten years, I have also worked in platform development for large-scale software development projects, as well as digital transformation projects and consulting enterprises in the UK, EMEA, MENA and the US for global opportunities.
+
+I am an enthusiastic for improving the efficiency and performance of open source technologies by developing sustainable business models in the cloud environments..</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guden&label=Profile%20views&color=0e75b6&style=flat" alt="guden" /> </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Inan Onder Guden</h1>
+<h1 align="center">Hi 👋, I'm IO. Guden</h1>
 <h5 align="left">An avid security, research professional for the past ten years, I have worked in platform development for large-scale software development projects, as well as digital transformation projects and consulting enterprises in the UK, EMEA, MENA and the US for global opportunities.
 <br>
 I am an enthusiastic for improving the efficiency and performance of open source technologies by developing sustainable business models in the cloud environments..</h5>
@@ -14,8 +14,6 @@ I am an enthusiastic for improving the efficiency and performance of open source
 - 🌱 I’m currently learning **Azure**
 
 - 👯 I’m looking to collaborate on **ideas**
-
-- 📝 I regularly write articles on [medium.com/@guden](medium.com/@guden)
 
 - 💬 Ask me about **anything - except boring 💤**
 

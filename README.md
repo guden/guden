@@ -17,7 +17,7 @@ I am an enthusiastic for improving the efficiency and performance of open source
 
 - 💬 Ask me about **anything - except boring 💤**
 
-- 📫 How to reach me **inan(at)codebees.org**
+- 📫 How to reach me **inan(at)guden.org**
 
 - ⚡ Fun fact **Advocate for sustainable business models for open source technologies.**
 

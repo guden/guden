@@ -9,7 +9,7 @@ I am an enthusiastic for improving the efficiency and performance of open source
 
 <p align="left"> <a href="https://twitter.com/guden" target="blank"><img src="https://img.shields.io/twitter/follow/guden?logo=twitter&style=for-the-badge" alt="guden" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft Cloud - ISV Project**
+- 🔭 I’m currently working on **Microsoft ISV Project**
 
 - 🌱 I’m currently learning **Azure**
 

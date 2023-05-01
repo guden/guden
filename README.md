@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm IO. Guden</h1>
 <h5 align="left">Security research professional for the past ten years, I have worked in platform engineer(SeIRE) for large-scale software development projects, as well as digital transformation projects and consulting enterprises in the US, EMEA, MENA and the UK for global opportunities.
-<br>
+<br> <br>
 I am an enthusiastic for improving the efficiency and performance of open source technologies by developing sustainable business models in the cloud environments..</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guden&label=Profile%20views&color=0e75b6&style=flat" alt="guden" /> </p>

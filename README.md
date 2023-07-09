@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IO. Guden</h1>
-<h5 align="left">I am a security researcher, platform engineer (SeIRE) with over ten years' experience working on platform development for large-scale software development, digital transformation, and consulting organisations in EMEA, MENA, and the US. Furthermore, I am an entrepreneur who enjoys building brands and products for the betterment of society. - In addition to developing startups, I also enjoy studying them.
+<h5 align="left">I am a ML\DL & security researcher, platform engineer (SeIRE) with over ten years' experience working for large-scale software development, digital transformation, and consulting organisations in EMEA, MENA, and the US. Furthermore, I am an entrepreneur who enjoys building brands and products for the betterment of society. - In addition to developing startups, I also enjoy studying them.
 <br> <br>
 I am an enthusiastic for improving the efficiency and performance of open source technologies by developing sustainable business models in the cloud environments..</h5>
 
@@ -10,8 +10,6 @@ I am an enthusiastic for improving the efficiency and performance of open source
 <p align="left"> <a href="https://twitter.com/guden" target="blank"><img src="https://img.shields.io/twitter/follow/guden?logo=twitter&style=for-the-badge" alt="guden" /></a> </p>
 
 - 🔭 I’m currently working on **Microsoft ISV** project
-
-- 🌱 I’m currently learning **Azure**
 
 
 - 💬 Ask me about **anything - except boring questions 💤**

@@ -1,7 +1,21 @@
-<h1 align="center">Hi 👋, I'm IO. Guden</h1>
-<h5 align="left">I am a ML\DL & security researcher, platform engineer (SeIRE) with over ten years' experience working for large-scale software development, digital transformation, and consulting organisations in EMEA, MENA, and the US. Furthermore, I am an entrepreneur who enjoys building brands and products for the betterment of society. - In addition to developing startups, I also enjoy studying them.
+<h1 align="center">Hi 👋, This is IO. Guden</h1>
+<h5 align="left">I am security researcher, platform, data, software and ML engineer with over 20 years of experience in the tech industry. I am passionate about using creative ways to make the internet a better place.
+
+I have a proven track record of success in developing and implementing security solutions that have helped organisations to protect their data and systems. I also worked on large-scale software development, digital transformation, marketing, and consulting for organisations in EMEA and the US. 
+
+Worked on a wide range of security-related projects, including:
+
+Developed open-source software that has helped to reduce the cost of maintenance and support
+Conducting vulnerability analysis and penetration testing for organisations
+Developing security tools used by organisations around the world
+Publishing research papers
+Leading a team of engineers in developing and implementing security features for Google's cloud platform
+
+I am a skilled technologist with a deep understanding of security principles and practices I am also an effective communicator and have a proven ability to build relationships with stakeholders.
+
+Currently working on a new project to develop a security tool that will help to automate the detection and remediation of security vulnerabilities and looking for ways to use technology to improve the efficiency and effectiveness of humanitarian aid.
 <br> <br>
-I am an enthusiastic for improving the efficiency and performance of open source technologies by developing sustainable business models in the cloud environments..</h5>
+If you are interesting projects to work with, please feel free to contact me at io[at]guden.org..</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guden&label=Profile%20views&color=0e75b6&style=flat" alt="guden" /> </p>
 
@@ -9,8 +23,7 @@ I am an enthusiastic for improving the efficiency and performance of open source
 
 <p align="left"> <a href="https://twitter.com/guden" target="blank"><img src="https://img.shields.io/twitter/follow/guden?logo=twitter&style=for-the-badge" alt="guden" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft ISV** project
-
+- 🔭 I’m currently working on **Security Tool** that will help to automate the detection and remediation of security vulnerabilities.
 
 - 💬 Ask me about **anything - except boring questions 💤**
 
@@ -29,7 +42,7 @@ I am an enthusiastic for improving the efficiency and performance of open source
 <a href="https://dev.to/guden" target="blank"><img align="center" src="https://github.com/guden/github/blob/master/images/icons/devto.svg" alt="Guden on Dev.to" height="30" width="40" /></a>
 <a href="https://be.net/guden" target="blank"><img align="center" src="https://github.com/guden/github/blob/master/images/icons/behance.svg" alt="Guden on Behance" height="30" width="40" /></a>
 <a href="https://hashnode.com/@guden" target="blank"><img align="center" src="https://github.com/guden/github/blob/master/images/icons/hashnode.svg" alt="Guden on Hashnode" height="30" width="40" /></a>
-<a href="https://medium.com/guden" target="blank"><img align="center" src="https://github.com/guden/github/blob/master/images/icons/medium.svg" alt="Guden on Medium" height="30" width="40" /></a>
+<a href="https://guden.medium.com/" target="blank"><img align="center" src="https://github.com/guden/github/blob/master/images/icons/medium.svg" alt="Guden on Medium" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">L

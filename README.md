@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is IO. Guden</h1>
 <h5 align="left">I am security researcher, platform, data, software and ML engineer with over 20 years of experience in the tech industry. I am passionate about using creative ways to make the internet a better place.
-
+<br> <br>
 I have a proven track record of success in developing and implementing security solutions that have helped organisations to protect their data and systems. I also worked on large-scale software development, digital transformation, marketing, and consulting for organisations in EMEA and the US. 
 
 Worked on a wide range of security-related projects, including:

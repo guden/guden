@@ -5,11 +5,11 @@ I have a proven track record of success in developing and implementing security 
 
 Worked on a wide range of security-related projects, including:
 
-Developed open-source software that has helped to reduce the cost of maintenance and support
-Conducting vulnerability analysis and penetration testing for organisations
-Developing security tools used by organisations around the world
-Publishing research papers
-Leading a team of engineers in developing and implementing security features for Google's cloud platform
+- Developed open-source software that has helped to reduce the cost of maintenance and support
+- Conducting vulnerability analysis and penetration testing for organisations
+- Developing security tools used by organisations around the world
+- Publishing research papers
+- Led a team of engineers in developing and implementing security features for Google's cloud platform
 
 I am a skilled technologist with a deep understanding of security principles and practices I am also an effective communicator and have a proven ability to build relationships with stakeholders.
 

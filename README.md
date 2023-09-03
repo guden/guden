@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, This is IO. Guden</h1>
 <h5 align="left">I am security researcher, platform, data, software and ML engineer with over 20 years of experience in the tech industry. I am passionate about using creative ways to make the internet a better place.
 <br> <br>
-I have a proven track record of success in developing and implementing security solutions that have helped organisations to protect their data and systems. I also worked on large-scale software development, digital transformation, marketing, and consulting for organisations in EMEA and the US. 
+I am security researcher, software, and ML engineer with over 20 years of experience in the tech industry. I am working as a platform architect at Codebees.
+
+I have a proven track record of success in developing and implementing security solutions that have helped organisations to protect their data and systems. I also worked on large-scale software development, digital transformation, marketing, and consulting for organisations in EMEA and the US. I am enthusiastic about using creative ways to make the internet a better place!
 
 Worked on a wide range of security-related projects, including:
+Developed open-source software that has helped to reduce the cost of maintenance and support
+Conducting vulnerability analysis and penetration testing for organisations
+Developing security tools used by organisations around the world
 
-- Developed open-source software that has helped to reduce the cost of maintenance and support
+Publishing research papers
 
-- Conducting vulnerability analysis and penetration testing for organisations
-
-- Developing security tools used by organisations around the world
-
-- Publishing research papers
-
-- Led a team of engineers in developing and implementing security features for Google's cloud platform
-
+Led a team of engineers in developing and implementing security features for Google's cloud platform
 I am a skilled technologist with a deep understanding of security principles and practices I am also an effective communicator and have a proven ability to build relationships with stakeholders.
 
 Currently working on a new project to develop a security tool that will help to automate the detection and remediation of security vulnerabilities and looking for ways to use technology to improve the efficiency and effectiveness of humanitarian aid.
-<br> <br></h5>
+
+I have a Bachelor of Applied Science in Computer Science from the University of Edinburgh, where I developed a strong foundation in programming, data structures, algorithms, and artificial intelligence. I have also acquired multiple certifications from Microsoft and LinkedIn in generative AI, AI-first product leadership, and business analysis, demonstrating my continuous learning and development in this rapidly evolving field.
+
+In my current role, I design and implement the technical infrastructure that supports our educational products and services, ensuring that our platform is scalable, reliable, and secure. I collaborate with other engineers, product managers, and designers to deliver a seamless end-to-end experience for our customers that truly changes how they interact with STEM education. I leverage my expertise in deep neural networks (DNN) and cloud computing to create innovative and engaging solutions that enhance the learning outcomes and retention of our students. I am passionate about making STEM education more accessible and engaging for all students, and I believe that I can bring diverse perspectives and experiences to the team.<br> <br></h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guden&label=Profile%20views&color=0e75b6&style=flat" alt="guden" /> </p>
 
